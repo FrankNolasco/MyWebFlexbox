@@ -1,0 +1,8 @@
+.content-type {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.content-type:first-child {
+    border-top: solid 1px #f0f0f0;
+}

@@ -1,0 +1,12 @@
+.type{
+    writing-mode: vertical-lr;
+    padding: 10px 0 0 20px;
+    font-size: 13px;
+    transform: rotate(180deg);
+}
+
+@media (max-width: 300px) {
+    .type {
+        padding: 10px 0 0 0;
+    }
+}
